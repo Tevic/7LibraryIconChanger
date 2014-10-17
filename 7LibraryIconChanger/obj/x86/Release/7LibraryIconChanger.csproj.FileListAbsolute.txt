@@ -1,0 +1,12 @@
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\bin\Release\7LibraryIconChanger.exe.config
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\bin\Release\7LibraryIconChanger.exe
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\bin\Release\7LibraryIconChanger.pdb
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\_7LibraryIconChanger.MainForm.resources
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\_7LibraryIconChanger.Properties.Resources.resources
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\7LibraryIconChanger.exe
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\7LibraryIconChanger.pdb
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Developer\Project\7LibraryIconChanger\7LibraryIconChanger\obj\x86\Release\GenerateResource.write.3.tlog
